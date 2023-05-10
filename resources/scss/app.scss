@@ -1,1 +1,13 @@
 @import '~bootstrap/scss/bootstrap';
+
+h1 {
+    text-align: center;
+}
+.container {
+    display: flex;
+    flex-flow: wrap;
+    gap: 20px;
+}
+p {
+    display: inline;
+}
